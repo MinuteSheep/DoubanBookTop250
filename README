@@ -1,0 +1,29 @@
+项目简介
+------------------------------
+爬取豆瓣图书TOP250
+
+
+目录结构
+------------------------------
+DouBanBook
+├── README
+├── requirements.txt
+└── spider
+    └── top250.py
+
+环境依赖
+------------------------------
+Python3.x
+Mysql
+Mysql.connector
+
+
+部署步骤
+------------------------------
+1.git clone https://github.com/MinuteSheep/DoubanBookTop250.git
+
+
+作者信息
+------------------------------
+作者：MinuteSheep
+邮箱：minutesheep@163.com
