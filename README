@@ -21,6 +21,8 @@ Mysql.connector
 部署步骤
 ------------------------------
 1.git clone https://github.com/MinuteSheep/DoubanBookTop250.git
+2.cd DoubanBookTop250/spider
+3.python top250.py
 
 
 作者信息
